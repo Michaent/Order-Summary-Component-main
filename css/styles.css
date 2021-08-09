@@ -1,0 +1,152 @@
+/****************************** TAG SELECTORS ******************************/
+
+body{
+  margin: 0;
+  font-family: 'Red Hat Display', sans-serif;
+}
+
+p{
+  margin-top: 2rem;
+  text-align: center;
+  font-size: 1rem;
+
+
+}
+
+
+
+/****************************** CLASS SELECTORS ******************************/
+
+.apymnt{
+  color: #EDF6E5;
+  font-size: 1rem;
+  font-weight: bold;
+  position: relative;
+  top: .5rem;
+}
+.annual-plan{
+  height: 2rem;
+  width: 8rem;
+  font-size: .1rem;
+  font-weight: 900;
+  position: relative;
+  left: 4.5rem;
+  bottom: 5.5rem;
+}
+
+.attribution{
+  text-decoration: none;
+  text-align: center;
+}
+.background-img{
+  width: 100%;
+  height: 20rem;
+
+}
+
+.btn{
+  text-decoration: none;
+
+}
+
+.cancel{
+  position: relative;
+  bottom: 7.5rem;
+  text-decoration: none;
+  font-weight: 900;
+  color: #161616;
+}
+
+.charge{
+  color: grey;
+  position: absolute;
+  font-size: .8rem;
+  top: 9rem;
+  left: 5.8rem;
+
+
+}
+
+.chng{
+  position: relative;
+  left: 6rem;
+  bottom: 8.55rem;
+  text-decoration: none;
+
+
+}
+.cng{
+font-size: .8rem;
+}
+
+.elements{
+  background-color: white;
+  height: 22rem;
+  width: 20rem;
+  position: relative;
+  left: 35rem;
+  bottom: 16.3rem;
+  border-bottom-left-radius: .8rem;
+  border-bottom-right-radius: .8rem;
+
+
+}
+
+.heading1{
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  text-align: center;
+  position: relative;
+  top: 1rem;
+}
+
+.icon-music{
+  height: 2rem;
+  width: 2rem;
+  position: relative;
+  left: 1rem;
+  top: 1rem;
+}
+
+.illustration-img{
+  height: 10rem;
+  width: 20rem;
+  position: relative;
+  left: 35rem;
+  border-top-left-radius: .8rem;
+  border-top-right-radius: .8rem;
+  bottom: 15rem;
+}
+
+.para1{
+  font-size: 1rem;
+  color: grey;
+}
+
+.plan-box{
+  height: 4.3rem;
+  width: 16.5rem;
+  border-radius: .7rem;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #F4F9F9;
+
+
+}
+
+.pymnt{
+  background-color: #7868E6;
+  border-radius: .6rem;
+  height: 2.3rem;
+  width: 16.5rem;
+  position: relative;
+  bottom: 7.2rem;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.top-container{
+  background-color: hsl(225, 100%, 94%);
+}
