@@ -34,7 +34,7 @@ Users should be able to:
 - CSS
 
 ### What I learned
-Although I've just started to learning the web development but by taking this challenge I learned more about div and css properties.
+Although I've just started to learning the web development, but by taking this challenge I learned more about div and css properties.
 
 
 ## Author
