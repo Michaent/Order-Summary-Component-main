@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://michaent.github.io/Order-Summary-Component-main/)
+- Solution URL: [Solution URL here](https://michaent.github.io/Order-Summary-Component-main/)
 
 ## My process
 
